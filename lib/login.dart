@@ -4,10 +4,8 @@ class Login extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: Row(
-        children: [
-          Text('Edit'),
-        ],
+      child: Card(
+        child: Column(children: [Text('Nguyên đẹp trai, cao raossssssssss')]),
       ),
     );
   }
